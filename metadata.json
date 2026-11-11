@@ -1,0 +1,6 @@
+{
+  "name": "A Love Story for Khandaker Him",
+  "description": "A romantic, cinematic interactive proposal and love story website for Khandaker Him.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
